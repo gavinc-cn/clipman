@@ -1,6 +1,16 @@
 *.log
 *.pyc
+*.dat
+*.json
+*.file
+*.lock
+*.txt
+*.queue
+*.que
+
 
 .idea/
-__pycache__
+build/
+dist/
+
 
