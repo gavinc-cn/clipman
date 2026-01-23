@@ -1,0 +1,4 @@
+pywin32==308
+filelock==3.16.1
+pynput==1.7.7
+pyqt5==5.15.11
